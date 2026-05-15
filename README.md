@@ -84,3 +84,13 @@ GET http://localhost:4000/search?q=shakira&offset=0
   "error": "El parámetro q es requerido"
 }
 ```
+
+## Screenshots
+
+### Resultados de búsqueda
+
+![Resultados de búsqueda](image.png)
+
+### Detalle de canción
+
+![Detalle de canción](image-1.png)
