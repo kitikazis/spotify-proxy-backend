@@ -87,10 +87,6 @@ GET http://localhost:4000/search?q=shakira&offset=0
 
 ## Screenshots
 
-### Resultados de búsqueda
+### Resultados del API de Spotify
 
-![Resultados de búsqueda](image.png)
-
-### Detalle de canción
-
-![Detalle de canción](image-1.png)
+![alt text](image-2.png)
